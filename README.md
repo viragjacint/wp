@@ -1,2 +1,2 @@
-# wp
-Wordpress
+# WP templates
+
