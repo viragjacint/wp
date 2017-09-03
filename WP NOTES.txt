@@ -33,3 +33,9 @@ function.php - will be loaded from the parent and the chip template
 Template Tags
 check codes for full list
 
+Customizer API
+-Panel is a group of sections on the main customizer area
+-Section is the area that contains the setting(s)
+-Setting is an individual option for cutomisation
+-Controller is an HTML element that sets a specific setting
+-Transport can be set for POST or REFRESH to display the new settinh in the customizer live or on page refresh
