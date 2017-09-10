@@ -22,6 +22,7 @@ Add Plugins
 -Bootstrap shortcakes
 -Ninja Form
 -Walker class for extended bootstrap navigation
+-Webriti SMTP Mail for sending email on localhost dev
 https://github.com/wp-bootstrap/wp-bootstrap-navwalker
 
 page.php - controls all static page files
