@@ -25,6 +25,8 @@ Add Plugins
 -Webriti SMTP Mail for sending email on localhost dev
 https://github.com/wp-bootstrap/wp-bootstrap-navwalker
 -WooCommerce Email test - for easy view when creating custom email templates
+-Say What? - to change the text domain safely
+
 page.php - controls all static page files
 
 function.php - will be loaded from the parent and the chip template
