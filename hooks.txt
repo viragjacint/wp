@@ -1,3 +1,4 @@
+//Display what's hooked into the hook
 global $wp_filter;
 var_export($wp_filter['action/filter']);
 
